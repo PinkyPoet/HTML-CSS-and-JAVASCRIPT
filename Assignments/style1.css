@@ -1,0 +1,30 @@
+body {
+    background-color:navy;
+}
+
+p{
+    color: blue;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 12pt;
+    color: yellow;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+     color:yellow;
+} 
+
+a:hover {
+    color:green;
+}
+
+a:active {
+     color:maroon;
+} 
+
